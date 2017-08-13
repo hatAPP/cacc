@@ -26,7 +26,6 @@ Route::get('/testPost',function(){
             <input type="submit" value="Test"/>
         </form>
 FORM;
-
     return $form;
 });
 
